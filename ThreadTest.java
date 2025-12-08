@@ -10,7 +10,7 @@ class A extends Thread{
 class B extends Thread{
     public void run(){
         for(int i = 1; i <= 10; i++){
-            System.out.println("It feom ThreadB : i = "+i);
+            System.out.println("It from ThreadB : i = "+i);
         }
         System.out.println("Exit from B");
     }
@@ -18,7 +18,7 @@ class B extends Thread{
 class C extends Thread{
     public void run(){
         for(int i = 1; i <= 10; i++){
-            System.out.println("It feom ThreadC : i = "+i);
+            System.out.println("It from ThreadC : i = "+i);
         }
         System.out.println("Exit from C");
     }
@@ -35,4 +35,4 @@ class ThreadTest{
         C threadC = new C();
         threadC.start();
     }
-}
+}  
