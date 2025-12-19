@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class median_of_two_sorted_arrays {
+public class Ques_no_4_median_of_two_sorted_arrays {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
         System.out.println("How many numbers you to store in 1st array : ");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class two_sum_target{
+public class Ques_no_1_two_sum_target{
     public static void main(String[] arg){
            Scanner in = new Scanner(System.in);
            System.out.println("How many numbers you want to store : ");

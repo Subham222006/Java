@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class container_with_most_water{
+public class Ques_no_11_container_with_most_water{
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("How many numbers you want to store : ");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class jump_game {
+public class Ques_no_55_jump_game {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[] a;
